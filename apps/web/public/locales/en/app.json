@@ -330,7 +330,7 @@
   "userRoleAll": "All",
   "userRoleUser": "Users",
   "userRoleAdmin": "Admins",
-  "licenseLimitWarning": "You have exceeded the limits of your license. Please <a>upgrade</a>.",
+  "licenseLimitWarning": "Welcome to bookday.us, an instance of Rallly: The open source availability poll app.",
   "goTo": "Go to <b>{page}</b>",
   "createNewPoll": "Create new poll",
   "deleteUserTitle": "Delete User",
